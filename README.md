@@ -22,5 +22,5 @@ A bash script named “cars.sh” that will
 ## References
 
 ## Instructions
-To run the script with input from the included numbers-input file:
+To run the script with input from the included cars-input file:
 ./cars.sh < cars-input
